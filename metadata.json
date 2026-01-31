@@ -1,0 +1,5 @@
+{
+  "name": "GVCN_LMSV16(31/01/2026)_NETLIFY_DEPLOY",
+  "description": "Hệ thống quản lý lớp học dành cho giáo viên chủ nhiệm và phụ huynh/học sinh. Cấu hình chuẩn cho Netlify Functions.",
+  "requestFramePermissions": []
+}

@@ -1,0 +1,14 @@
+
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[functions]
+  directory = "netlify/functions"
+
+# Cấu hình Redirect cho React Router (SPA)
+# Mọi request không tìm thấy file thực tế sẽ được chuyển về index.html
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
