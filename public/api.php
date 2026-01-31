@@ -2,8 +2,8 @@
 <?php
 // CẤU HÌNH BẢO MẬT (Thay đổi thông tin của bạn vào đây khi up lên Host)
 // Lưu ý: Không ai có thể xem nội dung file PHP này từ trình duyệt, nên Key an toàn.
-$GAS_URL = "https://script.google.com/macros/s/AKfycby8TouIkLfO99wK3gTVX_jIqBM9q3emYGi-eL846BWgFVRetEp0nYR5OCKxLRabRwWo/exec";
-$GAS_SECRET_KEY = "CHANGE_ME_STRONG_KEY_123456";
+$GAS_URL = "https://script.google.com/macros/s/AKfycbycZpecQHAb5FgJmgobcVhWZSSM1CuOI4kqiZtloGfjl7_kbdHKC_7GPABKkJPfuAVn/exec";
+$GAS_SECRET_KEY = "HOANGHUONG2026";
 
 // Cấu hình CORS (Cho phép React gọi vào)
 header("Access-Control-Allow-Origin: *");

@@ -8,7 +8,7 @@
  * 3. Copy URL và SECRET_KEY nhập vào trang Settings của Web App.
  */
 
-const SECRET_KEY = "CHANGE_ME_STRONG_KEY_123456"; // <--- THAY ĐỔI KEY NÀY
+const SECRET_KEY = "HOANGHUONG2026"; // <--- DA CAP NHAT KEY
 
 // --- 1. CONFIGURATION & SCHEMA ---
 const SCHEMA = {
